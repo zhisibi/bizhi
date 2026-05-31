@@ -3,6 +3,7 @@
 </div>
 
 # Run and deploy your AI Studio app
+https://pic.zsb.hidns.co/
 
 This contains everything you need to run your app locally.
 
