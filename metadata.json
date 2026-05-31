@@ -1,0 +1,6 @@
+{
+  "name": "高清壁纸采集网站",
+  "description": "一个集高清壁纸浏览、多风格智能采集、实时壁纸裁剪预览（电脑、平板、手机三大终端模拟）以及AI自主画意联想的高品质全栈壁纸服务平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
